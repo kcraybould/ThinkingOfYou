@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, ThinkOfYou!</string>
+    <string name="app_name">Thinking Of You</string>
+    <string name="start_button">Think of Someone</string>
+    <string name="chosen_text">I love you!</string>
+    <string name="send_button">Send Text</string>
+    <string name="rechoose_button">Choose Another Quote</string>
+    <string name="text_label">Send this quote to the person you are thinking of:</string>
+</resources>

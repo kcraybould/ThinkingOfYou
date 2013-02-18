@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="fill_parent" android:layout_width="fill_parent" android:baselineAligned="true" android:orientation="vertical">
+    <ImageView 
+    	android:adjustViewBounds="true"
+    	android:scaleType="fitXY"
+    	android:layout_x="0dp"
+    	android:layout_y="0dp"
+    	android:layout_width="fill_parent" 
+    	android:layout_height="fill_parent" 
+    	android:id="@+id/splashImage" 
+    	android:src="@drawable/think_icon">
+    </ImageView>
+</LinearLayout>

@@ -1,0 +1,7 @@
+
+    <resources>
+        <color name="quote_background">#f8f8ff</color>
+        <color name="quote_text">#2f4f4f</color>
+        <color name="label_text">#ffd700</color>
+        <color name="button_text">#0000cd</color>
+    </resources>
